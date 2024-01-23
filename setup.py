@@ -10,7 +10,7 @@ classifiers = [
  
 setup(
   name='format4me',
-  version='0.0.1',
+  version='0.0.2',
   description='A library to easily format the response coming from your bard or any other ai agent .',
   long_description=open('README.txt').read() + '\n\n' + open('CHANGELOG.txt').read(),
   url='',  
