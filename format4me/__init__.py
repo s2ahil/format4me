@@ -6,6 +6,6 @@ def format_content(content):
     heading_pattern = re.compile(r'\*\*([^*]+)\*\*')
     
     # Replace each heading with a new line after it
-    formatted_content = heading_pattern.sub(r'\n\n\1\n\n', content)
+    formatted_content = heading_pattern.sub(r'\n\n\1 ', content)
 
     return formatted_content
