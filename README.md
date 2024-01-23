@@ -9,5 +9,4 @@ normal bard response :
 
 after using format4me: 
 
-<img width="874" alt="image" src="https://github.com/s2ahil/format4me/assets/101473078/5c978c3b-3e54-47f7-90d1-655b6d00ee8b">
-
+<img width="727" alt="image" src="https://github.com/s2ahil/format4me/assets/101473078/e660c3a9-1e6e-4794-95af-59ecd5b6c9a0">
