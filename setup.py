@@ -10,7 +10,7 @@ classifiers = [
  
 setup(
   name='format4me',
-  version='0.0.2',
+  version='0.0.3',
   description='A library to easily format the response coming from your bard or any other ai agent .',
   long_description=open('README.txt').read() + '\n\n' + open('CHANGELOG.txt').read(),
   url='',  
@@ -20,5 +20,5 @@ setup(
   classifiers=classifiers,
   keywords=['responseFormatter','chatgpt','bard'], 
   packages=find_packages(),
-  install_requires=['re'] 
+  install_requires=['regex'] 
 )
