@@ -2,6 +2,7 @@
 A library to format the bard response or other ai agents for your usage.
 
 how to use :
+
 from format4me import format_content
 
 
